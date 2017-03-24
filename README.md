@@ -18,3 +18,5 @@ Some resources for faculty postion application and grants writing.
 
 ### Time planning
 * [Time is Citations: How I Plan My Days](http://blog.olgabotvinnik.com/blog/2016/12/14/time-is-citations/) A post by Olga Botvinnik in  UCSD on how she manages her day. I learned a lot!
+
+* [how to manage a lab](http://www.labmanager.com/management-tips)
