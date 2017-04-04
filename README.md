@@ -16,6 +16,11 @@ Some resources for faculty postion application and grants writing.
 
 * [The CommKit](http://mitcommlab.mit.edu/broad/use-the-commkit/) is a collection of guides to successful communication in the biological sciences, written by the BRCL Fellows.
 
+* <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">In 2004, my postdoc advisor <a href="https://twitter.com/DaphnePreuss">@DaphnePreuss</a> asked me to write a 1page paper writing guide for the lab, from an advisee point of view (udpated) <a href="https://t.co/9akUIOjtNs">pic.twitter.com/9akUIOjtNs</a></p>&mdash; Ravi Palanivelu (@rpalaniveluaz) <a href="https://twitter.com/rpalaniveluaz/status/838861597862834180">March 6, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![](https://github.com/crazyhottommy/The-world-of-faculty/blob/master/paper-writing-guide.jpg)
+
 ### Time planning
 * [Time is Citations: How I Plan My Days](http://blog.olgabotvinnik.com/blog/2016/12/14/time-is-citations/) A post by Olga Botvinnik in  UCSD on how she manages her day. I learned a lot!
 
