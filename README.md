@@ -21,7 +21,8 @@ Some resources for faculty postion application and grants writing.
 
 ![](https://github.com/crazyhottommy/The-world-of-faculty/blob/master/paper-writing-guide.jpg)
 
-* How to write a proposal
+* How to write a proposal  
+
 ![](https://github.com/crazyhottommy/The-world-of-faculty/blob/master/proposal.jpg)
 
 ### Time planning
