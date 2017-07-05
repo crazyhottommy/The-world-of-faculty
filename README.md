@@ -21,6 +21,9 @@ Some resources for faculty postion application and grants writing.
 
 ![](https://github.com/crazyhottommy/The-world-of-faculty/blob/master/paper-writing-guide.jpg)
 
+* How to write a proposal
+![](https://github.com/crazyhottommy/The-world-of-faculty/blob/master/proposal.jpg)
+
 ### Time planning
 * [Time is Citations: How I Plan My Days](http://blog.olgabotvinnik.com/blog/2016/12/14/time-is-citations/) A post by Olga Botvinnik in  UCSD on how she manages her day. I learned a lot!
 
