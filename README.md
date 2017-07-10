@@ -26,6 +26,8 @@ Some resources for faculty postion application and grants writing.
 ![](https://github.com/crazyhottommy/The-world-of-faculty/blob/master/proposal.jpg)
 
 * [Citeomatic](http://labs.semanticscholar.org/citeomatic/)  finds new citations for you.
+* [Ten simple rules for structuring papers](http://www.biorxiv.org/content/early/2017/05/23/088278)
+
 ### Time planning
 * [Time is Citations: How I Plan My Days](http://blog.olgabotvinnik.com/blog/2016/12/14/time-is-citations/) A post by Olga Botvinnik in  UCSD on how she manages her day. I learned a lot!
 
