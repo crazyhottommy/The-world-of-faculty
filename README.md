@@ -33,5 +33,7 @@ Some resources for faculty postion application and grants writing.
 
 * [how to manage a lab](http://www.labmanager.com/management-tips)
 
+### Data plan
+* ["All you need to know about data management plans"](https://zenodo.org/record/803756#.WWelz9PyvUo) - workshop for Principal Investigators in Bioinformatics
 ### Teaching
 * [How to Teach Programming (And Other Things)](http://third-bit.com/2017/05/31/how-to-teach-programming.html) by Greg wilson.
