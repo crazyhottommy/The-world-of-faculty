@@ -21,6 +21,11 @@ Some resources for faculty postion application and grants writing.
 
 ![](https://github.com/crazyhottommy/The-world-of-faculty/blob/master/paper-writing-guide.jpg)
 
+### submit to journals
+
+* [typeset](https://www.typeset.io/) Adhering to fuzzy journal guidelines is every researcher's nightmare. Not anymore! 
+Introducing Typeset - an intelligent editor that lets you automatically format or re-format to over 14,000 journals with 100% compliance. No fuss. And that's just the beginning...
+
 * How to write a proposal  
 
 ![](https://github.com/crazyhottommy/The-world-of-faculty/blob/master/proposal.jpg)
