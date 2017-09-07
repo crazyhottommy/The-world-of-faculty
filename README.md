@@ -45,3 +45,7 @@ Introducing Typeset - an intelligent editor that lets you automatically format o
 * ["All you need to know about data management plans"](https://zenodo.org/record/803756#.WWelz9PyvUo) - workshop for Principal Investigators in Bioinformatics
 ### Teaching
 * [How to Teach Programming (And Other Things)](http://third-bit.com/2017/05/31/how-to-teach-programming.html) by Greg wilson.
+
+### fundings
+
+* [Early Career Funding, Awards, and Other Funding](https://docs.google.com/spreadsheets/d/1H1aj--VUYr7eMFk_T7x0Oh985LqbyyscXg2wAAevDnU/edit#gid=0) 
