@@ -26,6 +26,8 @@ Some resources for faculty postion application and grants writing.
 * [typeset](https://www.typeset.io/) Adhering to fuzzy journal guidelines is every researcher's nightmare. Not anymore! 
 Introducing Typeset - an intelligent editor that lets you automatically format or re-format to over 14,000 journals with 100% compliance. No fuss. And that's just the beginning...
 
+* [citeomatic](http://labs.semanticscholar.org/citeomatic/) find other relative citations you may miss.
+
 * How to write a proposal  
 
 ![](https://github.com/crazyhottommy/The-world-of-faculty/blob/master/proposal.jpg)
