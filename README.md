@@ -13,6 +13,7 @@ Some resources for faculty postion application and grants writing.
 * [How to Turn A “Good” Proposal Into An “Excellent” Proposal in Eight Admittedly Arduous Steps](https://hopejahrensurecanwrite.com/2014/06/02/how-to-turn-a-good-proposal-into-an-excellent-proposal-in-eight-admittedly-arduous-steps/)
 
 * [Ten simple rules for structuring papers](http://biorxiv.org/content/early/2016/11/28/088278)
+* [open grant](https://www.ogrants.org/) find other people's grants.
 
 * [The CommKit](http://mitcommlab.mit.edu/broad/use-the-commkit/) is a collection of guides to successful communication in the biological sciences, written by the BRCL Fellows.
 
