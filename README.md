@@ -49,3 +49,5 @@ Introducing Typeset - an intelligent editor that lets you automatically format o
 ### fundings
 
 * [Early Career Funding, Awards, and Other Funding](https://docs.google.com/spreadsheets/d/1H1aj--VUYr7eMFk_T7x0Oh985LqbyyscXg2wAAevDnU/edit#gid=0) 
+
+* [Funding schemes for postdoctoral fellowships](https://asntech.github.io/postdoc-funding-schemes/)
