@@ -59,3 +59,7 @@ Introducing Typeset - an intelligent editor that lets you automatically format o
 * [Funding schemes for postdoctoral fellowships](https://asntech.github.io/postdoc-funding-schemes/)
 * [Postdoctoral Funding Opportunities by Johns Hopkins](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/)
 * [Early Career Funding Opportunities by Johns Hopkins](https://research.jhu.edu/rdt/funding-opportunities/early-career/)
+
+### manage a lab
+
+* [How to grow a healthy lab](https://www.nature.com/collections/pmlcrkkyyq)  Nature collections
