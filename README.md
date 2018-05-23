@@ -38,6 +38,8 @@ Introducing Typeset - an intelligent editor that lets you automatically format o
 
 * [Thoughts on reviewing NIH proposals: What is the difference between a 2.0 and 3.0 in initial score?](http://mistressoftheanimals.scientopia.org/2018/02/10/thoughts-on-reviewing-nih-proposals-what-is-the-difference-between-a-2-0-and-3-0-in-initial-score/) a blog post.
 
+* [ZoteroBib](https://zbib.org/) is a free service that helps you quickly create a bibliography in any citation style.
+
 ### Time planning
 * [Time is Citations: How I Plan My Days](http://blog.olgabotvinnik.com/blog/2016/12/14/time-is-citations/) A post by Olga Botvinnik in  UCSD on how she manages her day. I learned a lot!
 
