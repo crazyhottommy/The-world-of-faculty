@@ -40,6 +40,8 @@ Introducing Typeset - an intelligent editor that lets you automatically format o
 
 * [ZoteroBib](https://zbib.org/) is a free service that helps you quickly create a bibliography in any citation style.
 
+* [How to craft a figure legend for scientific papers](https://blog.bioturing.com/2018/05/10/how-to-craft-a-figure-legend-for-scientific-papers/) 
+
 ### Time planning
 * [Time is Citations: How I Plan My Days](http://blog.olgabotvinnik.com/blog/2016/12/14/time-is-citations/) A post by Olga Botvinnik in  UCSD on how she manages her day. I learned a lot!
 
