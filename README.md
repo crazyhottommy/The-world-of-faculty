@@ -47,6 +47,10 @@ Introducing Typeset - an intelligent editor that lets you automatically format o
 
 * [how to manage a lab](http://www.labmanager.com/management-tips)
 
+### review a paper
+
+https://github.com/jtleek/reviews by Jeff Leek.
+
 ### Data plan
 * ["All you need to know about data management plans"](https://zenodo.org/record/803756#.WWelz9PyvUo) - workshop for Principal Investigators in Bioinformatics
 ### Teaching
