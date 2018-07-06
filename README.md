@@ -35,7 +35,7 @@ Introducing Typeset - an intelligent editor that lets you automatically format o
 
 * [Citeomatic](http://labs.semanticscholar.org/citeomatic/)  finds new citations for you.
 * [Ten simple rules for structuring papers](http://www.biorxiv.org/content/early/2017/05/23/088278)
-
+* [NIC guide](https://www.niaid.nih.gov/grants-contracts/write-research-plan)
 * [Thoughts on reviewing NIH proposals: What is the difference between a 2.0 and 3.0 in initial score?](http://mistressoftheanimals.scientopia.org/2018/02/10/thoughts-on-reviewing-nih-proposals-what-is-the-difference-between-a-2-0-and-3-0-in-initial-score/) a blog post.
 
 * [ZoteroBib](https://zbib.org/) is a free service that helps you quickly create a bibliography in any citation style.
