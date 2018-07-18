@@ -54,7 +54,8 @@ https://github.com/jtleek/reviews by Jeff Leek.
 ### Data plan
 * ["All you need to know about data management plans"](https://zenodo.org/record/803756#.WWelz9PyvUo) - workshop for Principal Investigators in Bioinformatics
 ### Teaching
-* [How to Teach Programming (And Other Things)](http://third-bit.com/2017/05/31/how-to-teach-programming.html) by Greg wilson.
+* [How to Teach Programming (And Other Things)](http://third-bit.com/2017/05/31/how-to-teach-programming.html) by Greg Wilson.
+* [Teaching Tech Together](http://teachtogether.tech/) by Greg Wilson as well.
 
 ### fundings
 
