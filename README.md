@@ -68,3 +68,7 @@ https://github.com/jtleek/reviews by Jeff Leek.
 ### manage a lab
 
 * [How to grow a healthy lab](https://www.nature.com/collections/pmlcrkkyyq)  Nature collections
+
+### conferences
+
+* [Conferences & Schools 2019](https://generegulation.org/conferences-2019/)
