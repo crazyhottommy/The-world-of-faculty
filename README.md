@@ -22,6 +22,12 @@ Some resources for faculty postion application and grants writing.
 
 ![](https://github.com/crazyhottommy/The-world-of-faculty/blob/master/paper-writing-guide.jpg)
 
+### Stay in the current of literatures.
+
+* [Pubchase](https://www.pubchase.com/)
+* [SciReader](http://www.scireader.org)
+* [meta](https://meta.org/)
+
 ### submit to journals and funding agencies
 
 * [typeset](https://www.typeset.io/) Adhering to fuzzy journal guidelines is every researcher's nightmare. Not anymore! 
