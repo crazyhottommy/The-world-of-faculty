@@ -27,7 +27,9 @@ Some resources for faculty postion application and grants writing.
 * [Pubchase](https://www.pubchase.com/)
 * [SciReader](http://www.scireader.org)
 * [meta](https://meta.org/)
-
+* [citeulike](http://www.citeulike.org/)
+* [semanticscholoar](https://www.semanticscholar.org/) managed by Allen Institute for Artificial Intelligence
+.
 ### submit to journals and funding agencies
 
 * [typeset](https://www.typeset.io/) Adhering to fuzzy journal guidelines is every researcher's nightmare. Not anymore! 
