@@ -82,4 +82,5 @@ https://github.com/jtleek/reviews by Jeff Leek.
 ### conferences
 
 * [Conferences & Schools 2019](https://generegulation.org/conferences-2019/)
+* [conferences by nextgenseek](http://nextgenseek.com/ngs-conferences/)
 
