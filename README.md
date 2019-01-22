@@ -76,6 +76,7 @@ https://github.com/jtleek/reviews by Jeff Leek.
 ### manage a lab
 
 * protocols: https://www.protocols.io/
+* [electronic lab notebooks review by Harvard HMS](https://datamanagement.hms.harvard.edu/electronic-lab-notebooks)
 * [How to grow a healthy lab](https://www.nature.com/collections/pmlcrkkyyq)  Nature collections
 * [Bench Sci](https://www.benchsci.com/) Run Successful Experiments with the Right Antibody. Let our AI decode the literature to provide antibody usage data that's unbiased and experiment-specific
 
