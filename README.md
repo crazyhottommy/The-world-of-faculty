@@ -86,3 +86,8 @@ https://github.com/jtleek/reviews by Jeff Leek.
 * [Conferences & Schools 2019](https://generegulation.org/conferences-2019/)
 * [conferences by nextgenseek](http://nextgenseek.com/ngs-conferences/)
 
+###  collaborative writing
+
+* [manuscripts](https://www.manuscripts.io/about/)
+* [Open collaborative writing with Manubot](https://manubot.org/)
+* google doc + paperpile
