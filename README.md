@@ -91,3 +91,43 @@ https://github.com/jtleek/reviews by Jeff Leek.
 * [manuscripts](https://www.manuscripts.io/about/)
 * [Open collaborative writing with Manubot](https://manubot.org/)
 * google doc + paperpile
+
+### digital tools for organizing a computational biology lab
+
+collected from this twitter thread https://twitter.com/tangming2005/status/1230568527033012225
+
+* [basecamp](https://basecamp.com/) for tracking progress of projects. Github integration using [zapier](https://zapier.com/home)
+
+"We use Basecamp in my lab, with GitHub integration via Zapier" -- Naupaka Zimmerman
+
+"We use basecamp at HBC, it helps to track progress, n communicate with collaborator. For code tracking we use github. Though for my personal use, I hv jupyter notebook for code, Evernote for docs,and full Analysis I build docker for each project. This gives me peace" -- Preeti Aahir
+
+* [github + zenhub](https://www.zenhub.com/) project management for github.
+"We're trying out gitbook for the group documentation and working policies, etc. In addition, we use @ZenHub
+ because of its tight GitHub integration to track projects" -- Moritz E. Beber
+ 
+* [trello](https://trello.com/en-US) group working, organize projects.
+
+"I use Trello for organisation and push my collaborators to use it. It helps keeping tasks, code, input, output & comments organised. We have common conda envs on the cluster and a place to store scripts. GitHub would be better for scripts but it's a lot to learn for some people."
+
+"But I think that everything could be moved to @trello with a github integration and links to input data on shared folders on the HPC (so that large files are not stored on the Trello boards). Also it's free (compared to http://Monday.com)."
+
+--Gautier Richard
+
+* [Notion](https://www.notion.so/) All-in-one workspace.
+"We have a general lab section with boards for expectations, on boarding, and getting started with the HPC. Each trainee then has their own long term goals boards and separate projects board." -- Nicholas Mancuso
+
+* [github wiki](https://help.github.com/en/github/building-a-strong-community/about-wikis) for documenting projects.
+
+"Recently commenced attempt at this is to use a github repo with the wiki as the guide (onboard routines), and possibly the repo itself for useful scripts" --Kieran Campbell
+ 
+* [gitbook](https://www.gitbook.com/) for other documenting purposes. onboard routine: e.g. HPC setup. pipeline running.
+
+"We're trying out gitbook for the group documentation and working policies, etc. In addition, we use @ZenHub
+ because of its tight GitHub integration to track projects" -- Moritz E. Beber
+ 
+* [electronic lab notebooks](https://datamanagement.hms.harvard.edu/electronic-lab-notebooks) wetlab usage as well.
+
+* [knowlege repo from airbnb](https://github.com/airbnb/knowledge-repo)
+"We are deploying airbnb's knowledge repo as proof of concept and are enjoying it so far. Let me know what you think!" -- An Hoang.
+
