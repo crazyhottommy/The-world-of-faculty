@@ -2,6 +2,8 @@
 
 * [Tips for negotiating salary and startup for newly-hired tenure-track faculty](https://dynamicecology.wordpress.com/2017/03/01/tips-for-negotiating-salary-and-startup-for-newly-hired-tenure-track-faculty/)
 
+* [Ten Simple Rules to becoming a principal investigator](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007448)
+
 Some resources for faculty postion application and grants writing.
 
 * [A list of publicly available grant proposals in the biological sciences](https://jabberwocky.weecology.org/2012/08/10/a-list-of-publicly-available-grant-proposals-in-the-biological-sciences/)
