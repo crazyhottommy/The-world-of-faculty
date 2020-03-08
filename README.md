@@ -53,7 +53,7 @@ Introducing Typeset - an intelligent editor that lets you automatically format o
 * [How to craft a figure legend for scientific papers](https://blog.bioturing.com/2018/05/10/how-to-craft-a-figure-legend-for-scientific-papers/) 
 
 ### Time planning
-* [Time is Citations: How I Plan My Days](http://blog.olgabotvinnik.com/blog/2016/12/14/time-is-citations/) A post by Olga Botvinnik in  UCSD on how she manages her day. I learned a lot!
+* [Time is Citations: How I Plan My Days](https://olgabotvinnik.com/blog/time-is-citations/) A post by Olga Botvinnik in  UCSD on how she manages her day. I learned a lot!
 
 * [how to manage a lab](http://www.labmanager.com/management-tips)
 
