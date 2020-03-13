@@ -134,3 +134,4 @@ collected from this twitter thread https://twitter.com/tangming2005/status/12305
 * [knowlege repo from airbnb](https://github.com/airbnb/knowledge-repo)
 "We are deploying airbnb's knowledge repo as proof of concept and are enjoying it so far. Let me know what you think!" -- An Hoang.
 
+* [discord to replace slack?](https://discordapp.com/)
