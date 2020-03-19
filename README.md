@@ -135,3 +135,7 @@ collected from this twitter thread https://twitter.com/tangming2005/status/12305
 "We are deploying airbnb's knowledge repo as proof of concept and are enjoying it so far. Let me know what you think!" -- An Hoang.
 
 * [discord to replace slack?](https://discordapp.com/)
+
+* [super-productivity](https://github.com/johannesjo/super-productivity) Free to do list & time tracker for programmers & designers with Jira integration. 
+read https://bioinformaticsworkbook.org/projectManagement/Intro_projectManagement
+and https://olgabotvinnik.com/blog/time-is-citations/
