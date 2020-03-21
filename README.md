@@ -34,7 +34,7 @@ Some resources for faculty postion application and grants writing.
 .
 ### submit to journals and funding agencies
 
-* [writing in sciences stanford online course](https://online.stanford.edu/courses/som-ysciewrite-writing-sciences)
+* [writing in sciences stanford online course](https://www.coursera.org/learn/sciwrite/)
 * [typeset](https://www.typeset.io/) Adhering to fuzzy journal guidelines is every researcher's nightmare. Not anymore! 
 Introducing Typeset - an intelligent editor that lets you automatically format or re-format to over 14,000 journals with 100% compliance. No fuss. And that's just the beginning...
 
