@@ -91,9 +91,11 @@ https://github.com/jtleek/reviews by Jeff Leek.
 
 ###  collaborative writing
 
+* [Synchronized editing: the future of collaborative writing](https://www.nature.com/articles/d41586-020-00916-6)
 * [manuscripts](https://www.manuscripts.io/about/)
 * [Open collaborative writing with Manubot](https://manubot.org/)
 * google doc + paperpile
+
 
 ### digital tools for organizing a computational biology lab
 
