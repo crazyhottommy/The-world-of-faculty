@@ -85,6 +85,17 @@ https://github.com/jtleek/reviews by Jeff Leek.
 * [How to grow a healthy lab](https://www.nature.com/collections/pmlcrkkyyq)  Nature collections
 * [Bench Sci](https://www.benchsci.com/) Run Successful Experiments with the Right Antibody. Let our AI decode the literature to provide antibody usage data that's unbiased and experiment-specific
 
+### collabration
+
+* Rule #1: Say no unless you are excited.
+* [The ASCCR Frame for Learning Essential Collaboration Skills](https://www.semanticscholar.org/paper/Essential-Collaboration-Skills%3A-The-ASCCR-Frame-for-Vance-Smith/8ddb0800fbf0a43e343809f9df92fe622b25f3f5)
+
+### recruiting
+
+### training
+
+* [Ten simple rules for making training materials FAIR](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854)
+
 ### conferences
 
 * [Conferences & Schools 2019](https://generegulation.org/conferences-2019/)
