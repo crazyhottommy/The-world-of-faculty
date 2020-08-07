@@ -61,7 +61,10 @@ Introducing Typeset - an intelligent editor that lets you automatically format o
 
 ### review a paper
 
-https://github.com/jtleek/reviews by Jeff Leek.
+* https://github.com/jtleek/reviews by Jeff Leek.
+* [A Guide to Responding to Scientific Peer Review](https://jef.works/blog/2020/06/17/responding-to-scientific-peer-review/) by Jean Fan.
+
+
 
 ### Data plan
 * ["All you need to know about data management plans"](https://zenodo.org/record/803756#.WWelz9PyvUo) - workshop for Principal Investigators in Bioinformatics
