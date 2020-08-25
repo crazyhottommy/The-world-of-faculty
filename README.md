@@ -156,3 +156,5 @@ collected from this twitter thread https://twitter.com/tangming2005/status/12305
 * [super-productivity](https://github.com/johannesjo/super-productivity) Free to do list & time tracker for programmers & designers with Jira integration. 
 read https://bioinformaticsworkbook.org/projectManagement/Intro_projectManagement
 and https://olgabotvinnik.com/blog/time-is-citations/
+
+* [The Beginner’s Guide To Scrum And Agile Project Management](https://blog.trello.com/beginners-guide-scrum-and-agile-project-management)
