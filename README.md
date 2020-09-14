@@ -37,7 +37,8 @@ Some resources for faculty postion application and grants writing.
 * [writing in sciences stanford online course](https://www.coursera.org/learn/sciwrite/)
 * [typeset](https://www.typeset.io/) Adhering to fuzzy journal guidelines is every researcher's nightmare. Not anymore! 
 Introducing Typeset - an intelligent editor that lets you automatically format or re-format to over 14,000 journals with 100% compliance. No fuss. And that's just the beginning...
-
+* [how to write a K99](https://k99.sbamin.com/) by Samir Amin (my good buddy). Go and check out this treasure.
+* [seeking the k99](https://timoast.github.io/blog/seeking-the-k99/) a blog post by Tim Stuart.
 * [citeomatic](http://labs.semanticscholar.org/citeomatic/) find other relative citations you may miss.
 
 * How to write a proposal  
