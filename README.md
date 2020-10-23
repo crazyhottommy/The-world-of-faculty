@@ -35,6 +35,7 @@ Some resources for faculty postion application and grants writing.
 ### submit to journals and funding agencies
 
 * [writing in sciences stanford online course](https://www.coursera.org/learn/sciwrite/)
+* [AuthorArranger: Conquer journal title pages in seconds](https://authorarranger.nci.nih.gov/#/)
 * [typeset](https://www.typeset.io/) Adhering to fuzzy journal guidelines is every researcher's nightmare. Not anymore! 
 Introducing Typeset - an intelligent editor that lets you automatically format or re-format to over 14,000 journals with 100% compliance. No fuss. And that's just the beginning...
 * [NIH grant podcasts](https://grants.nih.gov/news/virtual-learning/podcasts.htm)
