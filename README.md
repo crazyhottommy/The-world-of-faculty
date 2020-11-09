@@ -48,6 +48,7 @@ Introducing Typeset - an intelligent editor that lets you automatically format o
 ![](https://github.com/crazyhottommy/The-world-of-faculty/blob/master/proposal.jpg)
 
 * [cocites](http://www.cocites.com/)
+* [connected papers](https://www.connectedpapers.com/)
 * [Citeomatic](http://labs.semanticscholar.org/citeomatic/)  finds new citations for you.
 * [Ten simple rules for structuring papers](http://www.biorxiv.org/content/early/2017/05/23/088278)
 * [NIC guide](https://www.niaid.nih.gov/grants-contracts/write-research-plan)
