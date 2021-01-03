@@ -86,6 +86,8 @@ Introducing Typeset - an intelligent editor that lets you automatically format o
 
 ### manage a lab
 
+* [Ten quick tips for making things findable](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008469)
+* [Making experimental data tables in the life sciences more FAIR: a pragmatic approach](https://academic.oup.com/gigascience/article/9/12/giaa144/6034785)
 * protocols: https://www.protocols.io/
 * [electronic lab notebooks review by Harvard HMS](https://datamanagement.hms.harvard.edu/electronic-lab-notebooks)
 * [Rspace](https://www.researchspace.com/) Next-gen Elab notebook.
