@@ -96,7 +96,7 @@ Introducing Typeset - an intelligent editor that lets you automatically format o
 
 ### collabration
 
-* Rule #1: Say no unless you are excited. ---from Shirley Liu.
+* Rule #1: Say no unless you are excited. ---Credits to Shirley Liu and Stan Gu.
 * [The ASCCR Frame for Learning Essential Collaboration Skills](https://www.semanticscholar.org/paper/Essential-Collaboration-Skills%3A-The-ASCCR-Frame-for-Vance-Smith/8ddb0800fbf0a43e343809f9df92fe622b25f3f5)
 
 ### recruiting
