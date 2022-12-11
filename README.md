@@ -2,6 +2,8 @@
 
 * [Tips for negotiating salary and startup for newly-hired tenure-track faculty](https://dynamicecology.wordpress.com/2017/03/01/tips-for-negotiating-salary-and-startup-for-newly-hired-tenure-track-faculty/)
 
+* [Creating accessibility in academic negotiations](https://www.sciencedirect.com/science/article/pii/S0968000422002870?dgcid=authord) Negotiating a faculty position can be confusing. Here, as a group of new faculty members, we pull back the curtains to explain nuances, identify negotiable components, and build a framework for the process of negotiation based on our recent experiences.
+
 * [Ten Simple Rules to becoming a principal investigator](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007448)
 
 Some resources for faculty postion application and grants writing.
